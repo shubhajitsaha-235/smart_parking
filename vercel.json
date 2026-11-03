@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/smart_parking_demo.html", "destination": "/index.html" },
+    { "source": "/smart_parking_demo", "destination": "/index.html" }
+  ]
+}
